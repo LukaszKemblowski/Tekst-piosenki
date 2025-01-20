@@ -1,0 +1,15 @@
+body { 
+    text-align: center; 
+    background-color: blanchedalmond;
+}
+
+.song {
+    border: 1px, solid;
+    color: rgb(29, 44, 49);
+    background-color: rgb(243, 203, 153);
+    position: absolute;
+     top: 50%; 
+     left: 50%; 
+     transform: translate(-50%, -50%);
+     width: 450px;
+}
